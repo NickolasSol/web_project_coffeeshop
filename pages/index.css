@@ -15,6 +15,3 @@
 
 @import url("../blocks/footer.css");
 
-* {
-  scroll-behavior: smooth;
-}

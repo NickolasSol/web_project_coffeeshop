@@ -9,8 +9,7 @@
   
 }
 
-.footer::before {
-    content: "";
+.footer__circle {
     position: absolute;
     top: -128px;
     left: -44px;
